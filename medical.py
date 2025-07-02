@@ -8,7 +8,7 @@ from agno.media import Image as AgnoImage
 import streamlit as st
 
 # Set your API Key (Replace with your actual key)
-GOOGLE_API_KEY = "AIzaSyCU8MXEDp7g2qDj1SYkBtod3IjldZRbFOU"
+GOOGLE_API_KEY = ""
 os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 #####
 # Ensure API Key is provided
