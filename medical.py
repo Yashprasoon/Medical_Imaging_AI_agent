@@ -1,3 +1,4 @@
+#importing libraries
 import os
 from PIL import Image as PILImage
 from agno.agent import Agent
